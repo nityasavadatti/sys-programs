@@ -10,4 +10,4 @@ if len(sys.argv)!=3:
 
 print("script name:",script_name)
 print("student name:",name)
-print("roll numnber:",rollno)
+print("roll number:",rollno)
